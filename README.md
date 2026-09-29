@@ -1,5 +1,12 @@
 ## Hi there! 🙋
-<img width="498" height="302" alt="image" src="https://github.com/user-attachments/assets/ffcaebc7-3cbe-47e8-a82c-16b6723abc9b" />
+
+This GitHub account is to document my learning process.
+
+- 📚 I’m currently learning DevOps and Cloud
+- 💻 I already know about: JavaScript, React, Express.js, NestJS, PostgreSQL, Python, Django, Rest API, Markdown, Git/Github, etc. 
+
+Updates soon!
+
 
 <!--
 **sistechdev/sistechdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
